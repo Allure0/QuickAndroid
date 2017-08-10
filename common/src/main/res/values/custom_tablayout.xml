@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="custom_tablayout_item" type="id" />
+    <item name="custom_tablayout_image" type="id" />
+    <item name="custom_tablayout_text" type="id" />
+
+</resources>
